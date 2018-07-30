@@ -4,7 +4,7 @@
 RSS : はてなブックマークのrssを使う。 <br/>
 総合 : http://b.hatena.ne.jp/hotentry.rss<br/>
 世の中 : http://b.hatena.ne.jp/hotentry/social.rss<br/>
-政治と経済 : http://b.hatena.ne.jp/hotentry/economics.rss<br/><br/>
+政治と経済 : http://b.hatena.ne.jp/hotentry/economics.rss<br/>
 暮らし : http://b.hatena.ne.jp/hotentry/life.rss<br/>
 
 ## Build and install
