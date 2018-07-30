@@ -1,0 +1,5 @@
+ext {
+    _versionName = '1.0'
+    _versionCode = 1
+    _packageName = 'moneyforward.rssfeed'
+}
